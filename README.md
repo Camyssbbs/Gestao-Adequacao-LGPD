@@ -33,9 +33,7 @@ I'm a developer constantly evolving, passionate about technology, automation, an
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
-- [TailwindCSS](https://tailwindcss.com/) *(opcional, se estiver usando)*
-- [Framer Motion](https://www.framer.com/motion/) *(para animações)*
-- [Figma](https://figma.com/) *(caso tenha feito protótipos)*
+- [Figma](https://figma.com/) 
 
 ---
 
